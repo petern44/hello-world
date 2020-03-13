@@ -1,0 +1,2 @@
+# hello-world
+newbe, retired, some electroncs and computing in past want to investigate a skill for mycroft to utilise a programable bus system we used to instal for blind, curtains, shutters, gates, led  or old type bulbs. It caters for 12vdc, 24vdc and 240v mains The bus can be programmed by most end users using IR/RF but it needs automating. The extent of capability is mind boggling and way above the all common up-stop-down
